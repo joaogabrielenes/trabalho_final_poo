@@ -1,0 +1,13 @@
+Aluno;1;aluno_fulano01;00000000000;31999990001;aluno01@exemplo.com;1001;10/11/2026;ativo
+Aluno;2;aluno_fulano02;11111111111;37999990002;aluno02@exemplo.com;1002;12/11/2026;ativo
+Instrutor;3;instrutor_fulano01;22222222222;31988880001;instrutor01@exemplo.com;CREF-FICTICIO-01;musculacao
+Aluno;4;aluno_fulano03;33333333333;31999990003;aluno03@exemplo.com;1003;13/11/2026;ativo
+Aluno;5;aluno_fulano04;44444444444;31999990004;aluno04@exemplo.com;1004;14/11/2026;ativo
+Aluno;6;aluno_fulano05;55555555555;31999990005;aluno05@exemplo.com;1005;15/11/2026;ativo
+Aluno;7;aluno_fulano06;66666666666;31999990006;aluno06@exemplo.com;1006;16/11/2026;ativo
+Aluno;8;aluno_fulano07;77777777777;31999990007;aluno07@exemplo.com;1007;17/11/2026;ativo
+Aluno;9;aluno_fulano08;88888888888;31999990008;aluno08@exemplo.com;1008;18/11/2026;inativo
+Aluno;10;aluno_fulano09;99999999999;31999990009;aluno09@exemplo.com;1009;19/11/2026;ativo
+Instrutor;11;instrutor_fulano02;12312312312;31988880002;instrutor02@exemplo.com;CREF-FICTICIO-02;funcional
+Instrutor;12;instrutor_fulano03;23423423423;31988880003;instrutor03@exemplo.com;CREF-FICTICIO-03;musculacao
+Instrutor;13;instrutor_fulano04;34534534534;31988880004;instrutor04@exemplo.com;CREF-FICTICIO-04;condicionamento

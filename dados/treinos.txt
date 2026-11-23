@@ -1,0 +1,12 @@
+Musculacao;10;ganho de forca;1;3;membros superiores
+Geral;11;condicionamento fisico;2;3;
+Musculacao;12;ganho de massa;4;3;peito
+Geral;13;resistencia fisica;5;11;
+Musculacao;14;fortalecimento;6;12;costas
+Geral;15;melhora do folego;7;13;
+Musculacao;16;hipertrofia;8;3;pernas
+Geral;17;mobilidade;9;11;
+Musculacao;18;definicao muscular;10;12;ombros
+Geral;19;condicionamento geral;1;13;
+Musculacao;20;forca muscular;2;11;bracos
+Geral;21;retorno aos treinos;4;12;

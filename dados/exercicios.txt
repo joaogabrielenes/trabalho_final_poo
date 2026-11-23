@@ -1,0 +1,13 @@
+10;supino reto;3;12;20.0
+10;remada baixa;3;10;25.0
+11;agachamento livre;3;15;0.0
+12;supino inclinado;3;10;15.0
+13;corrida estacionaria;4;30;0.0
+14;puxada frontal;3;12;25.0
+15;polichinelo;3;20;0.0
+16;leg press;4;12;60.0
+17;alongamento;3;10;0.0
+18;desenvolvimento de ombros;3;12;12.0
+19;prancha;3;30;0.0
+20;rosca direta;3;10;10.0
+21;caminhada na esteira;2;20;0.0
